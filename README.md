@@ -11,6 +11,14 @@ A modern Next.js application for uploading videos and generating AI-powered tran
 - 🌙 **Dark Mode**: Built-in dark mode support
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile
 
+## Demo Video
+
+Watch the platform in action:
+
+https://github.com/rachitm99/closer-assesment/assets/your-user-id/closer-demo.mp4
+
+[View Demo Video](https://github.com/rachitm99/closer-assesment/blob/main/closer-demo.mp4)
+
 ## Tech Stack
 
 - **Frontend**: Next.js 14 (App Router), React, TypeScript, Tailwind CSS
