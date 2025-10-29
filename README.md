@@ -15,9 +15,7 @@ A modern Next.js application for uploading videos and generating AI-powered tran
 
 Watch the platform in action:
 
-https://github.com/rachitm99/closer-assesment/assets/your-user-id/closer-demo.mp4
-
-[View Demo Video](https://github.com/rachitm99/closer-assesment/blob/main/closer-demo.mp4)
+[View Demo Video](https://github.com/user-attachments/assets/6ea905b5-67b4-47b5-bf30-3108bf9a07fc)
 
 ## Tech Stack
 
